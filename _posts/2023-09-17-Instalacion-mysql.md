@@ -34,7 +34,7 @@ Para descargar ```libssl1``` ejecuta:
 wget http://security.debian.org/debian-security/pool/updates/main/o/openssl/libssl1.1_1.1.1n-0+deb11u5_amd64.deb
 ```
 
-En tu directorios actual debe de salir un archivo con el nombre ```libssl1.1_1.1.1n-0+deb11u5_amd64.deb```, para instalarlo, ejecuta:
+En tu directorio actual debe de salir un archivo con el nombre ```libssl1.1_1.1.1n-0+deb11u5_amd64.deb```, para instalarlo, ejecuta:
 
 ```bash
 sudo dpkg -i libssl1.1_1.1.1n-0+deb11u5_amd64.deb
@@ -43,7 +43,7 @@ sudo dpkg -i libssl1.1_1.1.1n-0+deb11u5_amd64.deb
 ## Instalacion de mysql
 
 ```bash
-https://dev.mysql.com/get/mysql-apt-config_0.8.26-1_all.deb
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.26-1_all.deb
 ```
 
 En tu directorio actual debe de salir el ```mysql-apt-config_0.8.26-1_all.deb```, si es asi, ejecuta:
@@ -52,7 +52,7 @@ En tu directorio actual debe de salir el ```mysql-apt-config_0.8.26-1_all.deb```
 sudo dpkg -i mysql-apt-config_0.8.26-1_all.deb
 ```
 
-Actualizar los repositorios con:
+Actualiza los repositorios con:
 
 ```bash
 sudo apt update

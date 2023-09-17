@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: ald4 # author name
   bio: >- # tell to the world
-    Sysadmin & university stuffs
+    University stuffs
   username: ald4 # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
