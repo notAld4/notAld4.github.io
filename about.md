@@ -7,3 +7,5 @@ comments: false
 ---
 
 Aqui subire notas de la universidad y configuraciones de actividades
+
+Mi blog principal de pentesting y CTFs: ic4rta.github.io
